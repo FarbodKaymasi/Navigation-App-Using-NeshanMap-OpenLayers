@@ -15,6 +15,7 @@ This is a React application that utilizes the Neshan API to display and interact
 
 - React
 - Neshan Maps API
+- OpenStreetMap Navigation API
 - OpenLayers
 - TypeScript
 
